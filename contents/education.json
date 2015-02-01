@@ -1,17 +1,16 @@
 [{
 	"topic": "Major",
-    "class": "Computer Science, Math"
+    "class": "Computer Science"
+
+}, {
+	"topic": "Major",
+    "class": "Applied Mathematics"
 
 }, {
 	"topic": "Track",
-    "class": "Human-Centered Design"
-
-}, {
-	"topic": "Minor",
-    "class": "Technology, Arts & Media"
-
+	"class": "Software Engineering"
 }, {
 	"topic": "GPA",
-	"class": "3.5"
+	"class": "3.67"
 
 }]

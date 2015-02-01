@@ -4,14 +4,6 @@
     "image": "python.png"
 },
 {
-    "title": "C++",
-    "image": "cpp.png"
-},
-{
-    "title": "Paying Bills",
-    "image": "cash.png"
-},
-{
     "title": "Java",
     "image": "java.png"
 },
@@ -32,8 +24,31 @@
     "image": "js.png"
 },
 {
-    "title": "Best Design Practices",
-    "description": "I am familiar with best design practices including, Object Oriented Design, Test Driven Deveolpment, Auto-Documentation, and Version Control.",
-    "image": "github.png"
+    "title": "Scala",
+    "image": "scala.png"
+},
+{
+    "title": "C",
+    "image": "c.png"
+},
+{
+    "title": "jQuery",
+    "image": "jquery.png"
+},
+{
+    "title": "Git",
+    "image": "git.png"
+},
+{
+    "title": "SVN",
+    "image": "svn.png"
+},
+{
+    "title": "MySQL",
+    "image": "mysql.png"
+},
+{
+    "title": "Matlab",
+    "image": "matlab.png"
 }
 ]

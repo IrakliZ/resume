@@ -1,13 +1,9 @@
 [{
     "name": "BOLD Scholarship",
-    "years": 2011,
+    "years": 2012,
     "grade": "Freshmen"
 }, {
-    "name": "APO Fundraising Chair",
-    "years": 2012,
-    "grade": "Sophmore"
-}, {
     "name": "Dean's List",
-    "years": 2014,
-    "grade": "Senior"
+    "years": "2013-2014",
+    "grade": "Sophomore - Junior"
 }]

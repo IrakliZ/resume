@@ -1,7 +1,19 @@
 [{
-    "name": "skiing",
-    "years": 5
+    "name": "Longboarding",
+    "years": 7
 }, {
-    "name": "cooking",
-    "years": 3
+    "name": "Snowboarding",
+    "years": 0.5
+}, {
+	"name": "Bouldering",
+	"years": 1
+}, {
+	"name": "Chess",
+	"years": 8
+}, {
+	"name": "Gaming",
+	"years": 5
+}, {
+	"name": "Wargames (hacking)",
+	"years": 2
 }]
